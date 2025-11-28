@@ -120,4 +120,11 @@ Black–Scholes Put : 19.676161800136697
 Monte Carlo Call  : 4.417258237839932
 Monte Carlo Put   : 19.74498997331014
 Implied Volatility: 0.2998894873048196
+
 ```
+
+### ⭐ Support
+
+If you like this project, please star ⭐ the repository — it means a lot!
+```
+
